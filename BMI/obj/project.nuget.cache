@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "k+oD/N6Ygf0u1S2ohM33aRi2wCNi2Z1sedKRsADYpb1s0Vmj8AZ3h93gQcd89LPTRiuJxgennhaNo4/EAN54Zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chunchia.liang61\\RiderProjects\\BMI KATA\\BMI\\BMI.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.coreop.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

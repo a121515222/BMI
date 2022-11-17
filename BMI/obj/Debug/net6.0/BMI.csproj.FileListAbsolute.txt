@@ -1,0 +1,15 @@
+C:\Users\chunchia.liang61\RiderProjects\BMI KATA\BMI\bin\Debug\net6.0\BMI.exe
+C:\Users\chunchia.liang61\RiderProjects\BMI KATA\BMI\bin\Debug\net6.0\BMI.deps.json
+C:\Users\chunchia.liang61\RiderProjects\BMI KATA\BMI\bin\Debug\net6.0\BMI.runtimeconfig.json
+C:\Users\chunchia.liang61\RiderProjects\BMI KATA\BMI\bin\Debug\net6.0\BMI.dll
+C:\Users\chunchia.liang61\RiderProjects\BMI KATA\BMI\bin\Debug\net6.0\BMI.pdb
+C:\Users\chunchia.liang61\RiderProjects\BMI KATA\BMI\obj\Debug\net6.0\BMI.csproj.AssemblyReference.cache
+C:\Users\chunchia.liang61\RiderProjects\BMI KATA\BMI\obj\Debug\net6.0\BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chunchia.liang61\RiderProjects\BMI KATA\BMI\obj\Debug\net6.0\BMI.AssemblyInfoInputs.cache
+C:\Users\chunchia.liang61\RiderProjects\BMI KATA\BMI\obj\Debug\net6.0\BMI.AssemblyInfo.cs
+C:\Users\chunchia.liang61\RiderProjects\BMI KATA\BMI\obj\Debug\net6.0\BMI.csproj.CoreCompileInputs.cache
+C:\Users\chunchia.liang61\RiderProjects\BMI KATA\BMI\obj\Debug\net6.0\BMI.dll
+C:\Users\chunchia.liang61\RiderProjects\BMI KATA\BMI\obj\Debug\net6.0\refint\BMI.dll
+C:\Users\chunchia.liang61\RiderProjects\BMI KATA\BMI\obj\Debug\net6.0\BMI.pdb
+C:\Users\chunchia.liang61\RiderProjects\BMI KATA\BMI\obj\Debug\net6.0\BMI.genruntimeconfig.cache
+C:\Users\chunchia.liang61\RiderProjects\BMI KATA\BMI\obj\Debug\net6.0\ref\BMI.dll
