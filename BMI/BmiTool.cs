@@ -2,7 +2,7 @@
 
 namespace BMI
 {
-    public class Bmi
+    public class BmiTool
     {
         public static string GetBmi(double height, double weight)
         {

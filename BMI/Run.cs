@@ -9,7 +9,7 @@ namespace Kata
         {
             var height = 0;
             var weight = 166.6;
-            Console.WriteLine(Bmi.GetBmi(height, weight));
+            Console.WriteLine(BmiTool.GetBmi(height, weight));
         }
     }
 }
